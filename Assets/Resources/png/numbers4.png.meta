@@ -1,0 +1,385 @@
+fileFormatVersion: 2
+guid: 4b04fecd66e314b9d81969761a611b8d
+timeCreated: 1441640219
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: numbers4_0
+    21300002: numbers4_1
+    21300004: numbers4_2
+    21300006: numbers4_3
+    21300008: numbers4_4
+    21300010: numbers4_5
+    21300012: numbers4_6
+    21300014: numbers4_7
+    21300016: numbers4_8
+    21300018: numbers4_9
+    21300020: numbers4_10
+    21300022: numbers4_11
+    21300024: numbers4_12
+    21300026: numbers4_13
+    21300028: numbers4_14
+    21300030: numbers4_15
+    21300032: numbers4_16
+    21300034: numbers4_17
+    21300036: numbers4_18
+    21300038: numbers4_19
+    21300040: numbers4_20
+    21300042: numbers4_21
+    21300044: numbers4_22
+    21300046: numbers4_23
+    21300048: numbers4_24
+    21300050: numbers4_25
+    21300052: numbers4_26
+    21300054: numbers4_27
+    21300056: numbers4_28
+    21300058: numbers4_29
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: numbers4_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 187
+        width: 49
+        height: 66
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: numbers4_1
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 190
+        width: 46
+        height: 63
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: numbers4_2
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 189
+        width: 46
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: numbers4_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 190
+        width: 49
+        height: 63
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: numbers4_4
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 189
+        width: 47
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: numbers4_5
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 189
+        width: 46
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: numbers4_6
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 190
+        width: 46
+        height: 62
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: numbers4_7
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 189
+        width: 46
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: numbers4_8
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 189
+        width: 45
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: numbers4_9
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 189
+        width: 46
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: numbers4_10
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 103
+        width: 49
+        height: 63
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: numbers4_11
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 103
+        width: 46
+        height: 63
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: numbers4_12
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 102
+        width: 46
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: numbers4_13
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 103
+        width: 49
+        height: 63
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: numbers4_14
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 102
+        width: 47
+        height: 63
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: numbers4_15
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 102
+        width: 46
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: numbers4_16
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 103
+        width: 46
+        height: 62
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: numbers4_17
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 102
+        width: 46
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: numbers4_18
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 102
+        width: 46
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: numbers4_19
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 102
+        width: 46
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: numbers4_20
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 22
+        width: 49
+        height: 63
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: numbers4_21
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 22
+        width: 46
+        height: 63
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: numbers4_22
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 21
+        width: 46
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: numbers4_23
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 22
+        width: 49
+        height: 63
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: numbers4_24
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 21
+        width: 47
+        height: 63
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: numbers4_25
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 21
+        width: 46
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: numbers4_26
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 22
+        width: 45
+        height: 62
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: numbers4_27
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 21
+        width: 46
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: numbers4_28
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 21
+        width: 45
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: numbers4_29
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 21
+        width: 46
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
